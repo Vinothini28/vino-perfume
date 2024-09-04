@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    height: 70px;
+    width: 1241px;
+    background-image: linear-gradient(pink,paleturquoise);
+}
+.img{
+    margin-top: 4px;
+    margin-left: 10px;
+    border: 2px solid pink;
+    border-radius: 40px;
+    height: 60px;
+    width: 60px;
+}
+.style{
+    margin-top:-50px;
+    font-size: 15px;
+    margin-left: 80px;
+    font-style: italic;
+    color: deeppink;
+}
+#navbarNav{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    margin-top: -80px;
+}
+
+.nav-item{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+
+   
+}
+.navbar-nav .nav-item  {
+    margin-left: 50px;
+    padding: auto;
+    text-align: center; 
+}
+.nav-item a{
+    margin-left: 30px;
+    padding: 6px;
+    text-decoration: none;
+}
+ .navbar-nav .nav-item :hover{
+   border: 1px solid paleturquoise;
+   height: 30px;
+   width: 80px;       
+   border-radius: 20px;
+   color: black;
+   background-color: palevioletred;
+}
+section{
+    background-image: linear-gradient(pink,paleturquoise);
+   
+}
+.men {
+   
+   margin-left: 120px;
+   display: grid;
+   grid-template-columns: auto auto auto;
+}
+.men img{
+    
+    margin-top: 40px;
+    
+} 
+.box1 {
+    margin-top: 40px;
+    border: 1px solid black;
+    text-align: center;
+    height: 300px;
+    width: 210px;
+    background-color: white;
+}
+.box2 {
+    margin-top: 40px;
+    border: 1px solid black;
+    text-align: center;
+    height: 300px;
+    width: 210px;
+    background-color: white;
+}
+.box3 {
+    margin-top: 40px;
+    border: 1px solid black;
+    text-align: center;
+    height: 300px;
+    width: 210px;
+    background-color: white;
+}
+.box4 {
+    margin-top: 40px;
+    border: 1px solid black;
+    text-align: center;
+    height: 300px;
+    width: 210px;
+    background-color: white;
+}
+.box5 {
+    margin-top: 40px;
+    border: 1px solid black;
+    text-align: center;
+    height: 300px;
+    width: 210px;
+    background-color: white;
+}
+.box6 {
+    margin-top: 40px;
+    border: 1px solid black;
+    text-align: center;
+    height: 300px;
+    width: 210px;
+    background-color: white;
+}
+.box7 {
+    margin-top: 40px;
+    border: 1px solid black;
+    text-align: center;
+    height: 300px;
+    width: 210px;
+    background-color: white;
+}
+.box8 {
+    margin-top: 40px;
+    border: 1px solid black;
+    text-align: center;
+    height: 300px;
+    width: 210px;
+    background-color: white;
+}
+.box9 {
+    margin-top: 40px;
+    border: 1px solid black;
+    text-align: center;
+    height: 300px;
+    width: 210px;
+    background-color: white;
+}
